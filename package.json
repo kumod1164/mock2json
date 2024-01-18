@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kumod1164/mock2json.git"
+    "url": "git+https://github.com/Bharat-Goswami/Mock-api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kumod1164/mock2json/issues"
+    "url": "https://github.com/Bharat-Goswami/Mock-api/issues"
   },
-  "homepage": "https://github.com/kumod1164/mock2json#readme",
+  "homepage": "https://github.com/Bharat-Goswami/Mock-api#readme",
   "dependencies": {
     "json-server": "^0.16.3"
   }
